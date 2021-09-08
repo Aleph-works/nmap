@@ -1,5 +1,5 @@
 # Nmap
- A python script for parallelized scanning of open host ports.
+ A small python script for parallelized scanning and identification of open host ports.
 
 ## Usage
 
